@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mckflan
+- 👀 I’m interested in ... reading
+- 🌱 I’m currently learning ... business analytics
+- 📫 How to reach me ... mcf225@lehigh.edu
